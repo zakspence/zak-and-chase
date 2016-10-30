@@ -1,1 +1,1 @@
-# zak-and-chase
+# A Journal by Zak and Chase

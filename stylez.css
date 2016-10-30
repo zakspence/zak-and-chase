@@ -1,0 +1,25 @@
+.entry {
+  background-color: tomato;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.arrow {
+  padding: 20px;
+  margin: 20px 0;
+  border: 1px solid black;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.arrow:hover {
+  background: #CECECE;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
